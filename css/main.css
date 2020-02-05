@@ -184,6 +184,7 @@ footer span {
 
 @media only screen and (min-width: 1200px) {
 
+/****** PAGE 1 *******/ 
 	header {
 		justify-content: space-between; 
 	}
@@ -203,5 +204,9 @@ footer span {
 		justify-content: space-between;
 	}
 
-
+/****** PAGES 234 ******/
+	.page234 p {
+		width: 100%; 
+		padding: 0; 
+	}
 }
